@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.17a66196.chunk.css",
+    "main.js": "/static/js/main.8a40ea4f.chunk.js",
+    "main.js.map": "/static/js/main.8a40ea4f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.abedc535.js",
+    "runtime-main.js.map": "/static/js/runtime-main.abedc535.js.map",
+    "static/js/2.79f29cc2.chunk.js": "/static/js/2.79f29cc2.chunk.js",
+    "static/js/2.79f29cc2.chunk.js.map": "/static/js/2.79f29cc2.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.17a66196.chunk.css.map": "/static/css/main.17a66196.chunk.css.map",
+    "static/js/2.79f29cc2.chunk.js.LICENSE.txt": "/static/js/2.79f29cc2.chunk.js.LICENSE.txt",
+    "static/media/main.css": "/static/media/parede.c61c41b0.png",
+    "static/media/documentario-whose-streets.f2a42121.png": "/static/media/documentario-whose-streets.f2a42121.png",
+    "static/media/logotipo-rad-branco.89d58f54.png": "/static/media/logotipo-rad-branco.89d58f54.png",
+    "static/media/rad_revista_capa_00.b4f87634.png": "/static/media/rad_revista_capa_00.b4f87634.png",
+    "static/media/revista_rad_00.da80c72c.pdf": "/static/media/revista_rad_00.da80c72c.pdf",
+    "static/media/titulo-tinta-novidades.afc7cf9a.png": "/static/media/titulo-tinta-novidades.afc7cf9a.png",
+    "static/media/titulo-tinta-revistas.23f55057.png": "/static/media/titulo-tinta-revistas.23f55057.png",
+    "static/media/video-daw.9c88dc18.png": "/static/media/video-daw.9c88dc18.png",
+    "static/media/video-richard-wolf.a55c0ba8.png": "/static/media/video-richard-wolf.a55c0ba8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abedc535.js",
+    "static/js/2.79f29cc2.chunk.js",
+    "static/css/main.17a66196.chunk.css",
+    "static/js/main.8a40ea4f.chunk.js"
+  ]
+}
